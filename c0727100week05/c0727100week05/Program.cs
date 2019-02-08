@@ -10,7 +10,7 @@ namespace c0727100week05
     {
         static void Main(string[] args)
         {
-            int i = 7;
+          
            
         }
     }
